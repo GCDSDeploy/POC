@@ -41,10 +41,14 @@ Extract and codify the existing BCG PPT design system into a structured “Skill
 
 ### 2.3 Semantic Understanding & Narrative Structuring
 
-The AI engine should be capable of identifying, classifying, and organizing content across three dimensions:
+The AI engine should be capable of identifying, classifying, and organizing content across below dimensions:
 
-- **Content hierarchy understanding:** The system should detect and structure the logical hierarchy of information within the narrative (executive message / headline takeaway / key insights and supporting arguments / primary vs. secondary information importance, etc.).
-- **Business intent recognition:** Beyond textual meaning, the engine should infer the underlying business communication objective of the content (comparison and benchmarking / trend or performance analysis / strategic recommendation articulation, etc.).
+- **Content hierarchy understanding:**
+- The system should detect and structure the logical hierarchy of information within the narrative
+  executive message / headline takeaway / key insights and supporting arguments / primary vs. secondary information importance, etc.
+- **Business intent recognition:**
+- Beyond textual meaning, the engine should infer the underlying business communication objective of the content
+  comparison and benchmarking / trend or performance analysis / strategic recommendation articulation, etc.
 
 ### 2.4 Prototype Scenarios (Demo Use Cases)
 
