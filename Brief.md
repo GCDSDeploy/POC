@@ -10,6 +10,17 @@ BCG case teams produce a high volume of PowerPoint slides every day that must fo
 
 Today, a significant amount of manual effort is spent on the initial formatting process—converting raw visual content into BCG-compliant slides. AI makes this work highly automatable.
 
+
+### Previous Learning Summary
+Current Market Landscape vs. DS-Specific Needs
+
+Current market solutions and AI workflows are primarily focused on: (Research was conducted under restricted conditions, focusing only on workflow feasibility validation rather than full production-level development - I need Linfeng to output this)
+
+Text-to-PPT generation
+Prompt-based slide creation
+Template-driven presentation automation ...
+
+
 ### PoC goal
 
 Validate a process innovation:
