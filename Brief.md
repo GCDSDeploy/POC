@@ -1,4 +1,4 @@
-# Text to Slides | Proof of Concept (PoC) Brief
+# Slide to Presentation - Claude Skill| Proof of Concept (PoC) Brief
 
 ## 1. Background & Objective
 
